@@ -1,0 +1,36 @@
+name: Aktualizace NoteSport
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+    - cron: '3,18,33,48 * * * *'
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: notesport-data-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - name: Aktualizovat průběžné výsledky a tabulku
+        run: python scripts/update_data.py --mode live
+      - name: Obnovit celý oficiální rozpis
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '3,18,33,48 * * * *'
+        run: python scripts/update_data.py --mode schedule
+      - name: Načíst nové články a rozšířit archiv
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '7,37 * * * *'
+        run: python scripts/update_data.py --mode news
+      - name: Uložit aktualizovaná data a nasadit změny
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then git commit -m "Aktualizace dat NoteSport" && git push; fi
+
