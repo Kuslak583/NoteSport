@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:01:50+01:00",
+  "updated": "2026-11-19T20:44:20+01:00",
   "source": "https://ceskyhokej.cz/competition/standings/14",
   "season": "2026/27",
   "teams": [
@@ -42,17 +42,29 @@
     {
       "rank": 4,
       "team": "BANES Motor České Budějovice",
-      "gp": 19,
+      "gp": 20,
       "w": 10,
       "otw": 0,
       "otl": 2,
-      "l": 7,
-      "goals": "51:51",
+      "l": 8,
+      "goals": "55:57",
       "pts": 32,
       "club_url": "https://ceskyhokej.cz/club/detail/10"
     },
     {
       "rank": 5,
+      "team": "HC Sparta Praha",
+      "gp": 20,
+      "w": 9,
+      "otw": 1,
+      "otl": 2,
+      "l": 8,
+      "goals": "55:48",
+      "pts": 31,
+      "club_url": "https://ceskyhokej.cz/club/detail/12"
+    },
+    {
+      "rank": 6,
       "team": "Mountfield HK, a.s.",
       "gp": 19,
       "w": 8,
@@ -64,7 +76,7 @@
       "club_url": "https://ceskyhokej.cz/club/detail/11"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "team": "HC ŠKODA PLZEŇ",
       "gp": 19,
       "w": 5,
@@ -76,7 +88,7 @@
       "club_url": "https://ceskyhokej.cz/club/detail/13"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "team": "BYD Energie Karlovy Vary",
       "gp": 18,
       "w": 8,
@@ -86,18 +98,6 @@
       "goals": "42:36",
       "pts": 28,
       "club_url": "https://ceskyhokej.cz/club/detail/16"
-    },
-    {
-      "rank": 8,
-      "team": "HC Sparta Praha",
-      "gp": 19,
-      "w": 8,
-      "otw": 1,
-      "otl": 2,
-      "l": 8,
-      "goals": "49:44",
-      "pts": 28,
-      "club_url": "https://ceskyhokej.cz/club/detail/12"
     },
     {
       "rank": 9,
