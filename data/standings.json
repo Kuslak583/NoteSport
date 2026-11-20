@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:33:54+01:00",
+  "updated": "2026-11-20T21:02:32+01:00",
   "source": "https://ceskyhokej.cz/competition/standings/14",
   "season": "2026/27",
   "teams": [
@@ -30,13 +30,13 @@
     {
       "rank": 3,
       "team": "Rytíři Kladno",
-      "gp": 19,
-      "w": 7,
+      "gp": 20,
+      "w": 8,
       "otw": 4,
       "otl": 3,
       "l": 5,
-      "goals": "57:55",
-      "pts": 32,
+      "goals": "61:57",
+      "pts": 35,
       "club_url": "https://ceskyhokej.cz/club/detail/102"
     },
     {
@@ -78,12 +78,12 @@
     {
       "rank": 7,
       "team": "Mountfield HK, a.s.",
-      "gp": 19,
+      "gp": 20,
       "w": 8,
       "otw": 2,
       "otl": 2,
-      "l": 7,
-      "goals": "53:45",
+      "l": 8,
+      "goals": "55:49",
       "pts": 30,
       "club_url": "https://ceskyhokej.cz/club/detail/11"
     },
@@ -102,12 +102,12 @@
     {
       "rank": 9,
       "team": "Bílí Tygři Liberec",
-      "gp": 18,
+      "gp": 19,
       "w": 7,
       "otw": 1,
       "otl": 4,
-      "l": 6,
-      "goals": "51:49",
+      "l": 7,
+      "goals": "53:53",
       "pts": 27,
       "club_url": "https://ceskyhokej.cz/club/detail/15"
     },
@@ -162,13 +162,13 @@
     {
       "rank": 14,
       "team": "HC Olomouc",
-      "gp": 20,
-      "w": 3,
+      "gp": 21,
+      "w": 4,
       "otw": 1,
       "otl": 4,
       "l": 12,
-      "goals": "38:65",
-      "pts": 15,
+      "goals": "42:67",
+      "pts": 18,
       "club_url": "https://ceskyhokej.cz/club/detail/5"
     }
   ]
