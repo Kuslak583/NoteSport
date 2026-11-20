@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:54:12+01:00",
+  "updated": "2026-11-20T15:20:24+01:00",
   "source": "https://www.czehockey.cz/competition/games/14",
   "season": "2026/27",
   "games": [
@@ -2137,9 +2137,9 @@
       "time": "12:00",
       "home": "BYD Energie Karlovy Vary",
       "away": "HC VÍTKOVICE RIDERA",
-      "home_score": null,
-      "away_score": null,
-      "state": "upcoming",
+      "home_score": 3,
+      "away_score": 2,
+      "state": "unknown",
       "extra_time": "",
       "period": "",
       "clock": "",
