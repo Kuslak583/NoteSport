@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T09:55:54+01:00",
+  "updated": "2026-11-20T09:59:03+01:00",
   "source": "https://www.czehockey.cz/competition/games/14",
   "season": "2026/27",
   "games": [
@@ -2548,6 +2548,22 @@
       "url": "https://www.czehockey.cz/game/detail/179957"
     },
     {
+      "id": "179964",
+      "date": "2026-11-29",
+      "time": "14:00",
+      "home": "BK Mladá Boleslav",
+      "away": "HC Oceláři Třinec",
+      "home_score": null,
+      "away_score": null,
+      "state": "upcoming",
+      "extra_time": "",
+      "period": "",
+      "clock": "",
+      "statistics": null,
+      "source": "Český hokej",
+      "url": "https://www.czehockey.cz/game/detail/179964"
+    },
+    {
       "id": "179962",
       "date": "2026-11-29",
       "time": "15:00",
@@ -2626,22 +2642,6 @@
       "statistics": null,
       "source": "Český hokej",
       "url": "https://www.czehockey.cz/game/detail/179963"
-    },
-    {
-      "id": "179964",
-      "date": "2026-11-29",
-      "time": "16:00",
-      "home": "BK Mladá Boleslav",
-      "away": "HC Oceláři Třinec",
-      "home_score": null,
-      "away_score": null,
-      "state": "upcoming",
-      "extra_time": "",
-      "period": "",
-      "clock": "",
-      "statistics": null,
-      "source": "Český hokej",
-      "url": "https://www.czehockey.cz/game/detail/179964"
     },
     {
       "id": "179965",
