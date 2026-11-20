@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:10:38+01:00",
+  "updated": "2026-11-20T14:54:11+01:00",
   "source": "https://ceskyhokej.cz/competition/standings/14",
   "season": "2026/27",
   "teams": [
@@ -53,6 +53,18 @@
     },
     {
       "rank": 5,
+      "team": "BYD Energie Karlovy Vary",
+      "gp": 19,
+      "w": 9,
+      "otw": 2,
+      "otl": 0,
+      "l": 8,
+      "goals": "45:38",
+      "pts": 31,
+      "club_url": "https://ceskyhokej.cz/club/detail/16"
+    },
+    {
+      "rank": 6,
       "team": "HC Sparta Praha",
       "gp": 20,
       "w": 9,
@@ -64,7 +76,7 @@
       "club_url": "https://ceskyhokej.cz/club/detail/12"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "team": "Mountfield HK, a.s.",
       "gp": 19,
       "w": 8,
@@ -76,7 +88,7 @@
       "club_url": "https://ceskyhokej.cz/club/detail/11"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "team": "HC ŠKODA PLZEŇ",
       "gp": 19,
       "w": 5,
@@ -86,18 +98,6 @@
       "goals": "49:45",
       "pts": 30,
       "club_url": "https://ceskyhokej.cz/club/detail/13"
-    },
-    {
-      "rank": 8,
-      "team": "BYD Energie Karlovy Vary",
-      "gp": 18,
-      "w": 8,
-      "otw": 2,
-      "otl": 0,
-      "l": 8,
-      "goals": "42:36",
-      "pts": 28,
-      "club_url": "https://ceskyhokej.cz/club/detail/16"
     },
     {
       "rank": 9,
@@ -150,12 +150,12 @@
     {
       "rank": 13,
       "team": "HC VÍTKOVICE RIDERA",
-      "gp": 18,
+      "gp": 19,
       "w": 4,
       "otw": 2,
       "otl": 2,
-      "l": 10,
-      "goals": "41:56",
+      "l": 11,
+      "goals": "43:59",
       "pts": 18,
       "club_url": "https://ceskyhokej.cz/club/detail/7"
     },
