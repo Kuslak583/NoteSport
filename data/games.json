@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:29:14+01:00",
+  "updated": "2026-11-20T21:30:03+01:00",
   "source": "https://www.czehockey.cz/competition/games/14",
   "season": "2026/27",
   "games": [
@@ -2155,7 +2155,7 @@
       "away": "HC Oceláři Třinec",
       "home_score": 5,
       "away_score": 2,
-      "state": "unknown",
+      "state": "played",
       "extra_time": "",
       "period": "",
       "clock": "",
@@ -2171,7 +2171,7 @@
       "away": "HC DYNAMO PARDUBICE",
       "home_score": 3,
       "away_score": 4,
-      "state": "unknown",
+      "state": "played",
       "extra_time": "",
       "period": "",
       "clock": "",
@@ -2187,7 +2187,7 @@
       "away": "HC KOMETA BRNO",
       "home_score": 0,
       "away_score": 4,
-      "state": "unknown",
+      "state": "played",
       "extra_time": "",
       "period": "",
       "clock": "",
