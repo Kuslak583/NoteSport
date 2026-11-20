@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:54:25+01:00",
+  "updated": "2026-11-20T22:22:10+01:00",
   "source": "https://www.czehockey.cz/competition/games/14",
   "season": "2026/27",
   "games": [
@@ -2203,7 +2203,7 @@
       "away": "Rytíři Kladno",
       "home_score": 2,
       "away_score": 4,
-      "state": "unknown",
+      "state": "played",
       "extra_time": "",
       "period": "",
       "clock": "",
@@ -2219,7 +2219,7 @@
       "away": "Bílí Tygři Liberec",
       "home_score": 4,
       "away_score": 2,
-      "state": "unknown",
+      "state": "played",
       "extra_time": "",
       "period": "",
       "clock": "",
