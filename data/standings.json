@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T19:06:04+01:00",
+  "updated": "2026-11-22T19:51:37+01:00",
   "source": "https://ceskyhokej.cz/competition/standings/14",
   "season": "2026/27",
   "teams": [
@@ -42,29 +42,41 @@
     {
       "rank": 4,
       "team": "BANES Motor České Budějovice",
-      "gp": 20,
-      "w": 10,
+      "gp": 21,
+      "w": 11,
       "otw": 0,
       "otl": 2,
       "l": 8,
-      "goals": "55:57",
-      "pts": 32,
+      "goals": "59:59",
+      "pts": 35,
       "club_url": "https://ceskyhokej.cz/club/detail/10"
     },
     {
       "rank": 5,
       "team": "BYD Energie Karlovy Vary",
-      "gp": 19,
+      "gp": 20,
       "w": 9,
       "otw": 2,
-      "otl": 0,
+      "otl": 1,
       "l": 8,
-      "goals": "45:38",
-      "pts": 31,
+      "goals": "46:40",
+      "pts": 32,
       "club_url": "https://ceskyhokej.cz/club/detail/16"
     },
     {
       "rank": 6,
+      "team": "HC ŠKODA PLZEŇ",
+      "gp": 21,
+      "w": 5,
+      "otw": 8,
+      "otl": 1,
+      "l": 7,
+      "goals": "54:50",
+      "pts": 32,
+      "club_url": "https://ceskyhokej.cz/club/detail/13"
+    },
+    {
+      "rank": 7,
       "team": "HC Sparta Praha",
       "gp": 20,
       "w": 9,
@@ -76,7 +88,7 @@
       "club_url": "https://ceskyhokej.cz/club/detail/12"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "team": "Mountfield HK, a.s.",
       "gp": 20,
       "w": 8,
@@ -86,18 +98,6 @@
       "goals": "55:49",
       "pts": 30,
       "club_url": "https://ceskyhokej.cz/club/detail/11"
-    },
-    {
-      "rank": 8,
-      "team": "HC ŠKODA PLZEŇ",
-      "gp": 20,
-      "w": 5,
-      "otw": 7,
-      "otl": 1,
-      "l": 7,
-      "goals": "52:49",
-      "pts": 30,
-      "club_url": "https://ceskyhokej.cz/club/detail/13"
     },
     {
       "rank": 9,
@@ -114,12 +114,12 @@
     {
       "rank": 10,
       "team": "HC KOMETA BRNO",
-      "gp": 19,
+      "gp": 20,
       "w": 6,
       "otw": 3,
       "otl": 3,
-      "l": 7,
-      "goals": "49:55",
+      "l": 8,
+      "goals": "51:59",
       "pts": 27,
       "club_url": "https://ceskyhokej.cz/club/detail/6"
     },
