@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T20:52:57+01:00",
+  "updated": "2026-11-22T21:29:41+01:00",
   "source": "https://www.czehockey.cz/competition/games/14",
   "season": "2026/27",
   "games": [
@@ -2283,7 +2283,7 @@
       "away": "Mountfield HK, a.s.",
       "home_score": 4,
       "away_score": 1,
-      "state": "unknown",
+      "state": "played",
       "extra_time": "",
       "period": "",
       "clock": "",
@@ -2299,7 +2299,7 @@
       "away": "BANES Motor České Budějovice",
       "home_score": 2,
       "away_score": 4,
-      "state": "unknown",
+      "state": "played",
       "extra_time": "",
       "period": "",
       "clock": "",
