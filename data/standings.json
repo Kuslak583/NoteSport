@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T18:21:53+01:00",
+  "updated": "2026-11-22T18:45:14+01:00",
   "source": "https://ceskyhokej.cz/competition/standings/14",
   "season": "2026/27",
   "teams": [
@@ -102,13 +102,13 @@
     {
       "rank": 9,
       "team": "Bílí Tygři Liberec",
-      "gp": 19,
-      "w": 7,
+      "gp": 20,
+      "w": 8,
       "otw": 1,
       "otl": 4,
       "l": 7,
-      "goals": "53:53",
-      "pts": 27,
+      "goals": "58:55",
+      "pts": 30,
       "club_url": "https://ceskyhokej.cz/club/detail/15"
     },
     {
@@ -138,12 +138,12 @@
     {
       "rank": 12,
       "team": "BK Mladá Boleslav",
-      "gp": 20,
+      "gp": 21,
       "w": 5,
       "otw": 2,
       "otl": 2,
-      "l": 11,
-      "goals": "40:65",
+      "l": 12,
+      "goals": "42:70",
       "pts": 21,
       "club_url": "https://ceskyhokej.cz/club/detail/14"
     },
