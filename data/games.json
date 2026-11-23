@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T09:04:36+01:00",
+  "updated": "2026-11-23T10:39:21+01:00",
   "source": "https://www.czehockey.cz/competition/games/14",
   "season": "2026/27",
   "games": [
@@ -2500,22 +2500,6 @@
       "url": "https://www.czehockey.cz/game/detail/179958"
     },
     {
-      "id": "179954",
-      "date": "2026-11-27",
-      "time": "18:00",
-      "home": "Bílí Tygři Liberec",
-      "away": "BANES Motor České Budějovice",
-      "home_score": null,
-      "away_score": null,
-      "state": "upcoming",
-      "extra_time": "",
-      "period": "",
-      "clock": "",
-      "statistics": null,
-      "source": "Český hokej",
-      "url": "https://www.czehockey.cz/game/detail/179954"
-    },
-    {
       "id": "179956",
       "date": "2026-11-27",
       "time": "18:00",
@@ -2914,6 +2898,22 @@
       "statistics": null,
       "source": "Český hokej",
       "url": "https://www.czehockey.cz/game/detail/180117"
+    },
+    {
+      "id": "179954",
+      "date": "2026-12-16",
+      "time": "18:00",
+      "home": "Bílí Tygři Liberec",
+      "away": "BANES Motor České Budějovice",
+      "home_score": null,
+      "away_score": null,
+      "state": "upcoming",
+      "extra_time": "",
+      "period": "",
+      "clock": "",
+      "statistics": null,
+      "source": "Český hokej",
+      "url": "https://www.czehockey.cz/game/detail/179954"
     },
     {
       "id": "179984",
@@ -3590,7 +3590,7 @@
     {
       "id": "180022",
       "date": "2027-01-03",
-      "time": "15:00",
+      "time": "12:00",
       "home": "HC Oceláři Třinec",
       "away": "HC Litvínov",
       "home_score": null,
@@ -5045,7 +5045,7 @@
     },
     {
       "id": "180113",
-      "date": "2027-02-17",
+      "date": "2027-02-08",
       "time": "17:30",
       "home": "HC Litvínov",
       "away": "HC Oceláři Třinec",
