@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T19:27:37+01:00",
+  "updated": "2026-11-24T20:28:36+01:00",
   "source": "https://ceskyhokej.cz/competition/standings/14",
   "season": "2026/27",
   "teams": [
@@ -30,29 +30,41 @@
     {
       "rank": 3,
       "team": "Rytíři Kladno",
-      "gp": 21,
-      "w": 8,
+      "gp": 22,
+      "w": 9,
       "otw": 4,
       "otl": 4,
       "l": 5,
-      "goals": "63:60",
-      "pts": 36,
+      "goals": "66:62",
+      "pts": 39,
       "club_url": "https://ceskyhokej.cz/club/detail/102"
     },
     {
       "rank": 4,
+      "team": "HC ŠKODA PLZEŇ",
+      "gp": 22,
+      "w": 6,
+      "otw": 8,
+      "otl": 1,
+      "l": 7,
+      "goals": "57:52",
+      "pts": 35,
+      "club_url": "https://ceskyhokej.cz/club/detail/13"
+    },
+    {
+      "rank": 5,
       "team": "BANES Motor České Budějovice",
-      "gp": 21,
+      "gp": 22,
       "w": 11,
       "otw": 0,
       "otl": 2,
-      "l": 8,
-      "goals": "59:59",
+      "l": 9,
+      "goals": "61:62",
       "pts": 35,
       "club_url": "https://ceskyhokej.cz/club/detail/10"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "team": "BYD Energie Karlovy Vary",
       "gp": 20,
       "w": 9,
@@ -62,18 +74,6 @@
       "goals": "46:40",
       "pts": 32,
       "club_url": "https://ceskyhokej.cz/club/detail/16"
-    },
-    {
-      "rank": 6,
-      "team": "HC ŠKODA PLZEŇ",
-      "gp": 21,
-      "w": 5,
-      "otw": 8,
-      "otl": 1,
-      "l": 7,
-      "goals": "54:50",
-      "pts": 32,
-      "club_url": "https://ceskyhokej.cz/club/detail/13"
     },
     {
       "rank": 7,
@@ -150,12 +150,12 @@
     {
       "rank": 13,
       "team": "BK Mladá Boleslav",
-      "gp": 21,
+      "gp": 22,
       "w": 5,
       "otw": 2,
       "otl": 2,
-      "l": 12,
-      "goals": "42:70",
+      "l": 13,
+      "goals": "44:73",
       "pts": 21,
       "club_url": "https://ceskyhokej.cz/club/detail/14"
     },
