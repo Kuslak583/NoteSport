@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T20:28:36+01:00",
+  "updated": "2026-11-24T20:39:08+01:00",
   "source": "https://ceskyhokej.cz/competition/standings/14",
   "season": "2026/27",
   "teams": [
@@ -18,13 +18,13 @@
     {
       "rank": 2,
       "team": "HC DYNAMO PARDUBICE",
-      "gp": 21,
-      "w": 14,
+      "gp": 22,
+      "w": 15,
       "otw": 1,
       "otl": 1,
       "l": 5,
-      "goals": "78:51",
-      "pts": 45,
+      "goals": "86:52",
+      "pts": 48,
       "club_url": "https://ceskyhokej.cz/club/detail/2"
     },
     {
@@ -65,39 +65,39 @@
     },
     {
       "rank": 6,
+      "team": "Bílí Tygři Liberec",
+      "gp": 21,
+      "w": 9,
+      "otw": 1,
+      "otl": 4,
+      "l": 7,
+      "goals": "63:57",
+      "pts": 33,
+      "club_url": "https://ceskyhokej.cz/club/detail/15"
+    },
+    {
+      "rank": 7,
       "team": "BYD Energie Karlovy Vary",
-      "gp": 20,
+      "gp": 21,
       "w": 9,
       "otw": 2,
       "otl": 1,
-      "l": 8,
-      "goals": "46:40",
+      "l": 9,
+      "goals": "48:45",
       "pts": 32,
       "club_url": "https://ceskyhokej.cz/club/detail/16"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "team": "HC Sparta Praha",
-      "gp": 21,
+      "gp": 22,
       "w": 9,
       "otw": 1,
       "otl": 2,
-      "l": 9,
-      "goals": "56:51",
+      "l": 10,
+      "goals": "56:54",
       "pts": 31,
       "club_url": "https://ceskyhokej.cz/club/detail/12"
-    },
-    {
-      "rank": 8,
-      "team": "Bílí Tygři Liberec",
-      "gp": 20,
-      "w": 8,
-      "otw": 1,
-      "otl": 4,
-      "l": 7,
-      "goals": "58:55",
-      "pts": 30,
-      "club_url": "https://ceskyhokej.cz/club/detail/15"
     },
     {
       "rank": 9,
@@ -114,13 +114,13 @@
     {
       "rank": 10,
       "team": "HC KOMETA BRNO",
-      "gp": 20,
-      "w": 6,
+      "gp": 21,
+      "w": 7,
       "otw": 3,
       "otl": 3,
       "l": 8,
-      "goals": "51:59",
-      "pts": 27,
+      "goals": "54:59",
+      "pts": 30,
       "club_url": "https://ceskyhokej.cz/club/detail/6"
     },
     {
@@ -138,12 +138,12 @@
     {
       "rank": 12,
       "team": "HC VÍTKOVICE RIDERA",
-      "gp": 20,
+      "gp": 21,
       "w": 5,
       "otw": 2,
       "otl": 2,
-      "l": 11,
-      "goals": "47:60",
+      "l": 12,
+      "goals": "48:68",
       "pts": 21,
       "club_url": "https://ceskyhokej.cz/club/detail/7"
     },
