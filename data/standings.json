@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-24T20:39:08+01:00",
+  "updated": "2026-11-24T20:46:58+01:00",
   "source": "https://ceskyhokej.cz/competition/standings/14",
   "season": "2026/27",
   "teams": [
     {
       "rank": 1,
       "team": "HC Oceláři Třinec",
-      "gp": 21,
+      "gp": 22,
       "w": 16,
-      "otw": 1,
+      "otw": 2,
       "otl": 1,
       "l": 3,
-      "goals": "83:50",
-      "pts": 51,
+      "goals": "87:53",
+      "pts": 53,
       "club_url": "https://ceskyhokej.cz/club/detail/1"
     },
     {
@@ -102,13 +102,13 @@
     {
       "rank": 9,
       "team": "Mountfield HK, a.s.",
-      "gp": 21,
+      "gp": 22,
       "w": 8,
       "otw": 2,
-      "otl": 2,
+      "otl": 3,
       "l": 9,
-      "goals": "56:53",
-      "pts": 30,
+      "goals": "59:57",
+      "pts": 31,
       "club_url": "https://ceskyhokej.cz/club/detail/11"
     },
     {
@@ -126,13 +126,13 @@
     {
       "rank": 11,
       "team": "HC Litvínov",
-      "gp": 21,
+      "gp": 22,
       "w": 7,
-      "otw": 2,
+      "otw": 3,
       "otl": 1,
       "l": 11,
-      "goals": "48:58",
-      "pts": 26,
+      "goals": "51:60",
+      "pts": 28,
       "club_url": "https://ceskyhokej.cz/club/detail/9"
     },
     {
@@ -162,13 +162,13 @@
     {
       "rank": 14,
       "team": "HC Olomouc",
-      "gp": 21,
+      "gp": 22,
       "w": 4,
       "otw": 1,
-      "otl": 4,
+      "otl": 5,
       "l": 12,
-      "goals": "42:67",
-      "pts": 18,
+      "goals": "44:70",
+      "pts": 19,
       "club_url": "https://ceskyhokej.cz/club/detail/5"
     }
   ]
