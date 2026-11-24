@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:25:54+01:00",
+  "updated": "2026-11-24T21:36:58+01:00",
   "source": "https://www.czehockey.cz/competition/games/14",
   "season": "2026/27",
   "games": [
@@ -2331,7 +2331,7 @@
       "away": "Rytíři Kladno",
       "home_score": 2,
       "away_score": 3,
-      "state": "unknown",
+      "state": "played",
       "extra_time": "",
       "period": "",
       "clock": "",
@@ -2347,7 +2347,7 @@
       "away": "HC ŠKODA PLZEŇ",
       "home_score": 2,
       "away_score": 3,
-      "state": "unknown",
+      "state": "played",
       "extra_time": "",
       "period": "",
       "clock": "",
