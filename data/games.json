@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T22:37:56+01:00",
+  "updated": "2026-11-27T22:39:41+01:00",
   "source": "https://www.czehockey.cz/competition/games/14",
   "season": "2026/27",
   "games": [
@@ -2507,7 +2507,7 @@
       "away": "Mountfield HK, a.s.",
       "home_score": 1,
       "away_score": 3,
-      "state": "unknown",
+      "state": "played",
       "extra_time": "",
       "period": "",
       "clock": "",
@@ -2523,7 +2523,7 @@
       "away": "BYD Energie Karlovy Vary",
       "home_score": 3,
       "away_score": 1,
-      "state": "unknown",
+      "state": "played",
       "extra_time": "",
       "period": "",
       "clock": "",
