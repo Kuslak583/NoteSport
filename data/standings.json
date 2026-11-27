@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T20:00:09+01:00",
+  "updated": "2026-11-27T20:40:37+01:00",
   "source": "https://ceskyhokej.cz/competition/standings/14",
   "season": "2026/27",
   "teams": [
@@ -42,13 +42,13 @@
     {
       "rank": 4,
       "team": "HC ŠKODA PLZEŇ",
-      "gp": 22,
-      "w": 6,
+      "gp": 23,
+      "w": 7,
       "otw": 8,
       "otl": 1,
       "l": 7,
-      "goals": "57:52",
-      "pts": 35,
+      "goals": "58:52",
+      "pts": 38,
       "club_url": "https://ceskyhokej.cz/club/detail/13"
     },
     {
@@ -89,18 +89,6 @@
     },
     {
       "rank": 8,
-      "team": "HC Sparta Praha",
-      "gp": 22,
-      "w": 9,
-      "otw": 1,
-      "otl": 2,
-      "l": 10,
-      "goals": "56:54",
-      "pts": 31,
-      "club_url": "https://ceskyhokej.cz/club/detail/12"
-    },
-    {
-      "rank": 9,
       "team": "Mountfield HK, a.s.",
       "gp": 22,
       "w": 8,
@@ -112,51 +100,63 @@
       "club_url": "https://ceskyhokej.cz/club/detail/11"
     },
     {
+      "rank": 9,
+      "team": "HC Sparta Praha",
+      "gp": 23,
+      "w": 9,
+      "otw": 1,
+      "otl": 2,
+      "l": 11,
+      "goals": "57:56",
+      "pts": 31,
+      "club_url": "https://ceskyhokej.cz/club/detail/12"
+    },
+    {
       "rank": 10,
       "team": "HC KOMETA BRNO",
-      "gp": 21,
+      "gp": 22,
       "w": 7,
       "otw": 3,
       "otl": 3,
-      "l": 8,
-      "goals": "54:59",
+      "l": 9,
+      "goals": "54:60",
       "pts": 30,
       "club_url": "https://ceskyhokej.cz/club/detail/6"
     },
     {
       "rank": 11,
       "team": "HC Litvínov",
-      "gp": 22,
+      "gp": 23,
       "w": 7,
       "otw": 3,
       "otl": 1,
-      "l": 11,
-      "goals": "51:60",
+      "l": 12,
+      "goals": "51:65",
       "pts": 28,
       "club_url": "https://ceskyhokej.cz/club/detail/9"
     },
     {
       "rank": 12,
       "team": "HC VÍTKOVICE RIDERA",
-      "gp": 21,
-      "w": 5,
+      "gp": 22,
+      "w": 6,
       "otw": 2,
       "otl": 2,
       "l": 12,
-      "goals": "48:68",
-      "pts": 21,
+      "goals": "50:69",
+      "pts": 24,
       "club_url": "https://ceskyhokej.cz/club/detail/7"
     },
     {
       "rank": 13,
       "team": "BK Mladá Boleslav",
-      "gp": 22,
-      "w": 5,
+      "gp": 23,
+      "w": 6,
       "otw": 2,
       "otl": 2,
       "l": 13,
-      "goals": "44:73",
-      "pts": 21,
+      "goals": "49:73",
+      "pts": 24,
       "club_url": "https://ceskyhokej.cz/club/detail/14"
     },
     {
