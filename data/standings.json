@@ -1,30 +1,30 @@
 {
-  "updated": "2026-11-27T19:36:00+01:00",
+  "updated": "2026-11-27T20:00:09+01:00",
   "source": "https://ceskyhokej.cz/competition/standings/14",
   "season": "2026/27",
   "teams": [
     {
       "rank": 1,
       "team": "HC Oceláři Třinec",
-      "gp": 22,
+      "gp": 23,
       "w": 16,
       "otw": 2,
       "otl": 1,
-      "l": 3,
-      "goals": "87:53",
+      "l": 4,
+      "goals": "89:57",
       "pts": 53,
       "club_url": "https://ceskyhokej.cz/club/detail/1"
     },
     {
       "rank": 2,
       "team": "HC DYNAMO PARDUBICE",
-      "gp": 22,
-      "w": 15,
+      "gp": 23,
+      "w": 16,
       "otw": 1,
       "otl": 1,
       "l": 5,
-      "goals": "86:52",
-      "pts": 48,
+      "goals": "90:54",
+      "pts": 51,
       "club_url": "https://ceskyhokej.cz/club/detail/2"
     },
     {
